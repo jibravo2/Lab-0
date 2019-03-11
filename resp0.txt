@@ -1,0 +1,54 @@
+    1  https://github.com/IIC2115/Syllabus.git
+    2  cd '/c/Users/Juan Pablo/Desktop/clase1'
+    3  git clone https://github.com/IIC2115/Syllabus.git
+    4  git pull
+    5  cd syllabus
+    6  git pull
+    7  git clone https://github.com/jibravo2/L0_badbunny.git
+    8  ls
+    9  $ cd '/c/Users/Juan Pablo/Desktop/
+   10  git clone https://github.com/jibravo2/L0_badbunny.git
+   11  git clone https://github.com/jibravo2/L0_badbunny.git
+   12  ls
+   13  cd '/c/Users/Juan Pablo/Desktop'
+   14  git clone https://github.com/jibravo2/L0_badbunny.git
+   15  git add.
+   16  git add.
+   17  git add.
+   18  git add .
+   19  cd '/c/Users/Juan Pablo/Desktop/L0_badbunny'
+   20  git add .
+   21  git commit -m "hola mundo"
+   22  git push
+   23  cd '/c/Users/Juan Pablo/Desktop'
+   24  jibravo2
+   25  cd '/c/Users/Juan Pablo/Desktop'
+   26  git clone https://github.com/jibravo2/L0_badbunny.git
+   27  cd '/c/Users/Juan Pablo/Desktop/L0_badbunny'
+   28  git add .
+   29  git add .
+   30  cd '/c/Users/Juan Pablo/Desktop'
+   31  git clone https://github.com/jibravo2/Lab-0.git
+   32  git add .
+   33  cd '/c/Users/Juan Pablo/Desktop/Lab-0'
+   34  git add .
+   35  git add .
+   36  cd '/c/Users/Juan Pablo/Desktop/Lab-0'
+   37  git add.
+   38  git add .
+   39  git push
+   40  git add .
+   41  git commit -m "hola"
+   42  git config --global user.email "jibravo2@uc.cl"
+   43  git config --global user.name "jibravo2"
+   44  git commit -m "Hola"
+   45  git pull
+   46  git push
+   47  git pull
+   48  doskey
+   49  doskey/History
+   50  History
+   51  doskey /History
+   52  doskey /History
+   53  doskey/History
+   54  history
